@@ -16,8 +16,7 @@ from airflow.operators.dummy import DummyOperator
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
-API_KEY="dfzooeS9k4AVavvSf%2B13z0KUc3sFYqtCcRm1ISMQJlODSzZ7%2BmgR%2FTBYr1lSpiIOHp6VSONV6iKmkmx6EsITew%3D%3D"
-
+API_KEY="비밀"
 
 
 
